@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sayem1411.github.io/personalwebsite/sitemap.xml
